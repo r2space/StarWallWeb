@@ -1,7 +1,6 @@
 /**
  * @file 查询分类信息的api
  * @author lizheng
- * @copyright Dreamarts Corporation. All Rights Reserved.
  */
 
 "use strict";

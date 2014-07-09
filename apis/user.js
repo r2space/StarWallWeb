@@ -1,7 +1,6 @@
 /**
  * @file 存储用户信息
  * @author xiangrui.zeng@gmail.com
- * @copyright Dreamarts Corporation. All Rights Reserved.
  */
 
 "use strict";

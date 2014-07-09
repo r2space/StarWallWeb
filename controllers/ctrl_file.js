@@ -1,7 +1,6 @@
 /**
  * @file 存取文件Controller
  * @author xiangrui.zeng@gmail.com
- * @copyright Dreamarts Corporation. All Rights Reserved.
  */
 
 "use strict";

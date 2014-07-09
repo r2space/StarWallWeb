@@ -1,7 +1,6 @@
 /**
  * @file 存取分类信息的module
  * @author lizheng
- * @copyright Dreamarts Corporation. All Rights Reserved.
  */
 
 "use strict";

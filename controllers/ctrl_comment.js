@@ -1,7 +1,6 @@
 /**
  * @file 存取评论信息的controller
  * @author lizheng
- * @copyright Dreamarts Corporation. All Rights Reserved.
  */
 
 "use strict";

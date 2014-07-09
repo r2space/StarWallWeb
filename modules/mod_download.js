@@ -1,7 +1,6 @@
 /**
  * @file 存取下载履历的module
  * @author lizheng
- * @copyright Dreamarts Corporation. All Rights Reserved.
  */
 
 "use strict";

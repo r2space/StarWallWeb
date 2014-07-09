@@ -1,7 +1,6 @@
 /**
  * @file 下载App的api
  * @author lizheng
- * @copyright Dreamarts Corporation. All Rights Reserved.
  */
 
 "use strict";
